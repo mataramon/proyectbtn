@@ -1,2 +1,4 @@
 # proyectbtn
-Proyecto Master TECMMM
+Proyecto Materia Computo Ubicuo, Maestria En Sistemas Computacionales TECMM
+
+
